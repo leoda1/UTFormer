@@ -1,5 +1,5 @@
 # UTFormer
- A Lightweight Triple Attention Transformer Network for Semantic Segmentation of UAV Images
+A UAV Sensing-based Triple Attention Transformer Network for Semantic Segmentation
 ---
 
 ### 目录
